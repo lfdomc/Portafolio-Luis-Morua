@@ -49,7 +49,7 @@ a {
     display: flex;
     justify-self: auto;
     gap: 1rem;
-    align-items:baseline;
+    
     width: 20%;
 }
 .navegacion__lista{
@@ -65,7 +65,8 @@ a {
     font-weight:bold;
 }
 .cabecera__logo {
-    
+    max-width: 30px;
+    max-height: 30px;
     
 }
 
@@ -365,7 +366,7 @@ a {
     .curriculopdf{
 
         font-size: 80%;
-        fon
+        
     }
     .sobre-mi__texto{
         width: 100%;
